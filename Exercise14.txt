@@ -1,0 +1,3 @@
+Unit 6 Exercise 14
+
+Refactoring is the process of improving code without changing functionality. It could be done to simplify code, make it more readable, or allow for easier expansion. Another benefit is that refactoring code could help developers see fix potential bugs they hadn't noticed yet.
